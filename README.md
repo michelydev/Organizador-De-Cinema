@@ -36,13 +36,13 @@ O programa permite cadastrar as durações dos filmes e informar o horário de i
 1. Clone este repositório:
 
 ```bash
-git clone URL-DO-REPOSITORIO
+git clone (https://github.com/michelydev/Organizador-De-Cinema)
 ```
 
 2. Entre na pasta do projeto:
 
 ```bash
-cd NOME-DO-REPOSITORIO
+Organizador-De-Cinema
 ```
 
 3. Execute o programa:
